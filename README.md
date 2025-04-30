@@ -3,7 +3,7 @@ INDEX
 # 🔗 My Project Index
 
 ## 📊 SQL
-- [DDL COMMAND]([https://github.com/YaaseeenMuhammad/1-DDL-COMMAND])
+- [DDL COMMAND](https://github.com/YaaseeenMuhammad/1-DDL-COMMAND)
 - [Excel Dashboard](https://github.com/your-username/excel-dashboard)
 
 ## 🐍 Python Projects
