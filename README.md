@@ -13,8 +13,16 @@
 - [TRIGGERS](https://github.com/YaaseeenMuhammad/10-Triggers)
 - [LIBRARY MANAGEMENT SYSTEM](https://github.com/YaaseeenMuhammad/Module-3-Library-Management-System)
 
-## 🐍 Python Projects
-- [Python Scripts](https://github.com/your-username/python-scripts)
+## 🐍 Python
+- [FUNDAMENTALS](https://github.com/YaaseeenMuhammad/1_Python-Fundamentals)
+- [DATA STRUCTURES](https://github.com/YaaseeenMuhammad/2_Data-structures-in-Python)
+- [CONDITIONAL AND LOOPING STATEMENTS](https://github.com/YaaseeenMuhammad/3_Conditional-and-Looping-Statements)
+- [FUNCTIONS](https://github.com/YaaseeenMuhammad/4-Python-Function)
+- [FILE AND EXCEPTION HANDLING](https://github.com/YaaseeenMuhammad/5_File-and-Exception-Handling)
+- [OOPs](https://github.com/YaaseeenMuhammad/6_Python_Part_Assignment_OOPs)
+- [NUMPY AND PANDAS](https://github.com/YaaseeenMuhammad/7-Numpy_Pandas)
+- [DATA VISUALIZATION](https://github.com/YaaseeenMuhammad/8-Python-Data_Visualization)
+
 
 ## 🌐 Web Projects
 - [Web Portfolio](https://github.com/your-username/web-portfolio)
