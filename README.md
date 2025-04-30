@@ -11,7 +11,7 @@
 - [SUBQUERIES AND VIEWS](https://github.com/YaaseeenMuhammad/8-Subqueries-And-Views)
 - [STORED PROCEDURES](https://github.com/YaaseeenMuhammad/9-Stored-Procedures)
 - [TRIGGERS](https://github.com/YaaseeenMuhammad/10-Triggers)
-- 
+- [LIBRARY MANAGEMENT SYSTEM](https://github.com/YaaseeenMuhammad/Module-3-Library-Management-System)
 
 ## 🐍 Python Projects
 - [Python Scripts](https://github.com/your-username/python-scripts)
