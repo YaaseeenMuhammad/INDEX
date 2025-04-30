@@ -1,6 +1,4 @@
 # INDEX
-INDEX
-# 🔗Index
 
 ## 📊 SQL
 - [DDL COMMAND](https://github.com/YaaseeenMuhammad/1-DDL-COMMAND)
