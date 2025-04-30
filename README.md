@@ -2,8 +2,8 @@
 INDEX
 # 🔗 My Project Index
 
-## 📊 Excel Projects
-- [SQL]([https://github.com/YaaseeenMuhammad/1-DDL-COMMAND])
+## 📊 SQL
+- [DDL COMMAND]([https://github.com/YaaseeenMuhammad/1-DDL-COMMAND])
 - [Excel Dashboard](https://github.com/your-username/excel-dashboard)
 
 ## 🐍 Python Projects
