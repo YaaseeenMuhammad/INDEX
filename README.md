@@ -1,6 +1,6 @@
 # INDEX
 INDEX
-# 🔗 My Project Index
+# 🔗Index
 
 ## 📊 SQL
 - [DDL COMMAND](https://github.com/YaaseeenMuhammad/1-DDL-COMMAND)
