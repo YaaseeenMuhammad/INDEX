@@ -4,7 +4,8 @@ INDEX
 
 ## 📊 SQL
 - [DDL COMMAND](https://github.com/YaaseeenMuhammad/1-DDL-COMMAND)
-- [Excel Dashboard](https://github.com/your-username/excel-dashboard)
+- [DDL CONSTRAINTS](https://github.com/YaaseeenMuhammad/2.DDL-CONSTRAINTS)
+- [DML CONSTRAINTS](https://github.com/YaaseeenMuhammad/3-DML-Commands)
 
 ## 🐍 Python Projects
 - [Python Scripts](https://github.com/your-username/python-scripts)
